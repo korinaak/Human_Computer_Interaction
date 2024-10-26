@@ -27,7 +27,6 @@ Key Features
     Private Messaging: Share personal notes to make each exchange memorable.
 
 Usage Scenarios for Different User Groups
-Scenario 1:
 
 Interactive Quiz:
 
@@ -35,14 +34,6 @@ Interactive Quiz:
     The app matches them with another user who has similar literary preferences.
     They proceed to the "Box Now" for the book exchange.
 
-Scenario 2:
-
-Sound Prompt:
-
-    Once the user taps, the device emits a sound.
-    When they land on their favorite book, a "ding" sound plays to confirm the selection.
-
-Scenario 3:
 
 Wi-Fi & Data Usage:
 
