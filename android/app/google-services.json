@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630493769799",
+    "project_id": "bookb-7113c",
+    "storage_bucket": "bookb-7113c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630493769799:android:9889330198cb56d10a8162",
+        "android_client_info": {
+          "package_name": "com.bondapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBX8GnQ1nBD55vtaJ37muBBsJYCFkM80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
