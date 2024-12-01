@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="firstpage.png" alt="First Page" width="300">
+</p>
+
+<p align="center">
+  <img src="mainpage.png" alt="Main Page" width="300">
+</p>
+
 # BookBond Application
 
 The main idea is to create an application where book lovers can exchange books based on their interests.
@@ -52,16 +60,3 @@ Welcome to BookExchange, the ultimate app for book lovers who want to connect, s
 ## Wi-Fi & Data Usage:
 
 Requires Wi-Fi or data access to receive the address of the Box Now location and to notify each user when to send their book.
-
----
-
-<p align="center">
-  <!-- Placeholder for your first image -->
-  <img src="your_image_path_1.jpg" alt="Image 1" width="300">
-</p>
-
-<p align="center">
-  <!-- Placeholder for your second image -->
-  <img src="your_image_path_2.jpg" alt="Image 2" width="300">
-</p>
- 
