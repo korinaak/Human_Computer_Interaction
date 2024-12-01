@@ -8,7 +8,8 @@
 The main idea is to create an application where book lovers can exchange books based on their interests.
 
 ---
-
+## For more information, click [here](https://www.figma.com/file/HbH6t9jSbFZgFjm3f3IgrT/bookbond?type=design&node-id=88%3A9&mode=design&t=5xX0G3hY17LK8e53-1)
+---
 ## How It Works:
 
 When a user downloads the app, they take a quiz on well-known books by tapping (if they like the book) or swiping (if they don’t like the book). This way, they’ll select a genre, and after a few more swipes, the app will match them with another user who has chosen similar books. To continue, the user must place a designated "Box Now" (located near their home) where they’ll be required to send a book to another user who shares the same taste in books. Additionally, the user can select a preferred age range to which they want to send the book, fostering a shared reading experience between age groups.
