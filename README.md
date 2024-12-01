@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="firstpage.png" alt="First Page" width="300">
-</p>
-
-<p align="center">
-  <img src="mainpage.png" alt="Main Page" width="300">
+  <img src="firstpage.png" alt="First Page" width="300" style="display: inline-block; margin-right: 20px;">
+  <img src="mainpage.png" alt="Main Page" width="300" style="display: inline-block;">
 </p>
 
 # BookBond Application
@@ -60,3 +57,13 @@ Welcome to BookExchange, the ultimate app for book lovers who want to connect, s
 ## Wi-Fi & Data Usage:
 
 Requires Wi-Fi or data access to receive the address of the Box Now location and to notify each user when to send their book.
+---
+
+## Teams Members
+
+**Κυριακή Καρατζούνη**  
+[st2yp01@gmail.com](https://github.com/korinaak)  
+
+**Δώρα Εξάρχου**  
+[exarchoudora@gmail.com](https://github.com/DoraExarchou)
+
