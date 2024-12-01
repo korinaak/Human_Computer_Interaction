@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="firstpage.png" alt="First Page" width="300" style="display: inline-block; margin-right: 20px;">
-  <img src="mainpage.png" alt="Main Page" width="300" style="display: inline-block;">
+  <img src="firstpage.png" alt="First Page" width="300">
 </p>
+
 
 # BookBond Application
 
